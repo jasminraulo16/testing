@@ -5,3 +5,5 @@ initials = name[0] + name[space1 + 1] + name[space2 + 1]
 print(initials)
 
 print("helooooo")
+
+print("domma")
